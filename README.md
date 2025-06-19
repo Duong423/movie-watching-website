@@ -27,10 +27,7 @@
 <h2>Demo link:</h2>
 
 <p>It may take a minute or two to use because this is a free host</p>
-<ul>
-    <li>Client app: https://movie-keqy.onrender.com/</li>
-    <li>Backend: https://movie-watching-website.onrender.com</li>
-</ul>
+
 
 <h2>Deployment guide (on local):</h2>
 
